@@ -1,2 +1,2 @@
 # PageAstro
-Aprendendo a utilizar o framework Astro
+Inicio da aprendizagem de Astro
